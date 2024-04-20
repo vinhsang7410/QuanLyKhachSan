@@ -1,0 +1,515 @@
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.Licensing.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu_UI_v1.52.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.Shared.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\FlashControlV71.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\log4net.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\MaterialSkin.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\MetroFramework.Design.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\MetroFramework.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\MetroFramework.Fonts.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Data.v21.2.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v21.2.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\log4net.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.SuggestedBindingRedirects.cache
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmBaoCaoDoanhThu.resources
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmCapNhatThongTinKhachHang.resources
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmChiTietDatPhong.resources
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmChiTietNhanPhong.resources
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDangNhap.resources
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDatPhong.resources
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDoiPhong.resources
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmGioiThieu.resources
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmInHoaDon.resources
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmMainQuanLyKhachSan.resources
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmNhanPhong.resources
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLyDichVu.resources
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLyHoaDon.resources
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLyKhachHang.resources
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLyLoaiDichVu.resources
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLyLoaiPhong.resources
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLyNhanVien.resources
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLyPhong.resources
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuyDinh.resources
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuyenTruyCap.resources
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmSuDungDichVuVaThanhToan.resources
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThemDichVu.resources
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThemKhachHang.resources
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThemLoaiDichVu.resources
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThemLoaiNhanVien.resources
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThemNhanVien.resources
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThemPhong.resources
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThemThongTinKhachHang.resources
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThongTinCaNhan.resources
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CopyComplete
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+E:\Kho Tai Lieu Học\Lap Trinh Quan Ly\QuanLyKhachSan - Nhom15\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.Licensing.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\FlashControlV71.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\log4net.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\MaterialSkin.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\MetroFramework.Design.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\MetroFramework.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\log4net.xml
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmBaoCaoDoanhThu.resources
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmCapNhatThongTinKhachHang.resources
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmChiTietDatPhong.resources
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmChiTietNhanPhong.resources
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDangNhap.resources
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDatPhong.resources
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDoiPhong.resources
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmGioiThieu.resources
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmInHoaDon.resources
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmMainQuanLyKhachSan.resources
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmNhanPhong.resources
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLyDichVu.resources
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLyHoaDon.resources
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLyKhachHang.resources
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLyLoaiDichVu.resources
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLyLoaiPhong.resources
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLyNhanVien.resources
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLyPhong.resources
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuyDinh.resources
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuyenTruyCap.resources
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmSuDungDichVuVaThanhToan.resources
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThemDichVu.resources
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThemKhachHang.resources
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThemLoaiDichVu.resources
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThemLoaiNhanVien.resources
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThemNhanVien.resources
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThemPhong.resources
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThemThongTinKhachHang.resources
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThongTinCaNhan.resources
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CopyComplete
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\vinhs\Desktop\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.Licensing.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.Shared.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\FlashControlV71.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\log4net.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\MaterialSkin.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\MetroFramework.Design.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\MetroFramework.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\MetroFramework.Fonts.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\log4net.xml
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmBaoCaoDoanhThu.resources
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmCapNhatThongTinKhachHang.resources
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmChiTietDatPhong.resources
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmChiTietNhanPhong.resources
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDangNhap.resources
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDatPhong.resources
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDoiPhong.resources
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmGioiThieu.resources
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmInHoaDon.resources
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmMainQuanLyKhachSan.resources
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmNhanPhong.resources
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLyDichVu.resources
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLyHoaDon.resources
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLyKhachHang.resources
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLyLoaiDichVu.resources
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLyLoaiPhong.resources
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLyNhanVien.resources
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLyPhong.resources
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuyDinh.resources
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuyenTruyCap.resources
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmSuDungDichVuVaThanhToan.resources
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThemDichVu.resources
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThemKhachHang.resources
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThemLoaiDichVu.resources
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThemLoaiNhanVien.resources
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThemNhanVien.resources
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThemPhong.resources
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThemThongTinKhachHang.resources
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThongTinCaNhan.resources
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CopyComplete
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\Desktop\bt Lớn\QuanLyKhachSan\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
